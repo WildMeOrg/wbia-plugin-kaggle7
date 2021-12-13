@@ -6,5 +6,8 @@ profile_output*.txt
 
 *.egg-info
 __pycache__
-_doc/_build
+_docs/_build
+docs/
 _page/
+
+wbia_kaggle7/_version.py

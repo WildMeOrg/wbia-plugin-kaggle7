@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to IBEIS Kaggle7 Plug-in documentation!
-==============================================================
+Welcome to WBIA Kaggle7 Plug-in documentation!
+==============================================
 
 .. toctree::
    :maxdepth: 8

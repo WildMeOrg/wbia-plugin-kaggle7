@@ -1,11 +1,11 @@
 wbia\_kaggle7 package
-======================
+=====================
 
 Submodules
 ----------
 
 wbia\_kaggle7.\_plugin module
-------------------------------
+-----------------------------
 
 .. automodule:: wbia_kaggle7._plugin
     :members:
